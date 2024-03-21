@@ -1,0 +1,7 @@
+from nvidia_cloud_functions_python_sdk.paths.v2_nvcf_authorizations_functions_function_id_versions_function_version_id_remove.patch import ApiForpatch
+
+
+class V2NvcfAuthorizationsFunctionsFunctionIdVersionsFunctionVersionIdRemove(
+    ApiForpatch,
+):
+    pass
